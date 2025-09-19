@@ -1,2 +1,3 @@
 # my-git-demo2
-my first git repo
+My first git repo.
+Author - akhil
